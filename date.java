@@ -9,6 +9,9 @@ public class date {
         int a =12;
         int b = 30;
         System.out.println("total "+ (a+b));
+        student Student=new student();
+        Student.sayhello();
+
        
 
     }
