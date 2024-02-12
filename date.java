@@ -6,6 +6,9 @@ public class date {
         System.out.println("this output of first program ");
         System.out.println(new Date());
         System.out.println("sss");
+        int a =12;
+        int b = 30;
+        System.out.println("total "+ (a+b));
        
 
     }
