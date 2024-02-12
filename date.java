@@ -11,6 +11,7 @@ public class date {
         System.out.println("total "+ (a+b));
         student Student=new student();
         Student.sayhello();
+        Student.studentname();
 
        
 

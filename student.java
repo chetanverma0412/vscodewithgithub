@@ -5,4 +5,7 @@ public class student {
     public void sayhello(){
         System.out.println("I am Student");
     }
+    public void studentname(){
+        System.out.println("chetan verma");
+    }
 }
