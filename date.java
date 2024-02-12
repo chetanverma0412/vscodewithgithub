@@ -5,5 +5,6 @@ public class date {
         System.out.println("the is frist program");
         System.out.println("this output of first program ");
         System.out.println(new Date());
+        System.out.println("this is fr");
     }
 }
